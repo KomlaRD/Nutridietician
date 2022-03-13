@@ -27,7 +27,7 @@
         android:text="About: Nutridietitian is dedicated to providing you
 with evidence-based nutrition care at the comfort of your home or at a
 dedicated clinical center across Ghana"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:textStyle="bold"
         android:textAlignment="viewStart"/>
 
